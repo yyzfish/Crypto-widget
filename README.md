@@ -43,12 +43,14 @@
 
 ![Alt text](image.png)
 
+文件路径：widget/AHR999.js
+
 
 #### 链上GAS
 
 ![Alt text](image-1.png)
 
-
+文件路径：widget/gas小组件.js
 
 ### 🟠🟡🟢感谢
 * [Nicolasking007](https://github.com/Nicolasking007)
